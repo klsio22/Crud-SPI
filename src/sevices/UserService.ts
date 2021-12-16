@@ -10,7 +10,7 @@ type CreateUser = {
 export class UserService {
   async create({ email, password, type_user_id }: CreateUser) {
     const repository = getCustomRepository(UserRepository);
-
+    
     const user = repository.create({
       email,
       password,
