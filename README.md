@@ -1,4 +1,5 @@
 Desafio
+
 - Criar Usuário (Terá duas Permissões de Usuários > Comum e o Master)
 
 - Cada Usuário poderá incluir cadastrar pacientes
@@ -155,3 +156,12 @@ Quilgo Submission ID (do not edit) *
 ⚠️ DO NOT EDIT this field or your time will not be recorded.
 
  9enbzPtc0zjPOBDN
+
+---
+
+
+
+[Instalação de Pacotes da aplicação no notion](https://indigo-hisser-408.notion.site/CRUD-SIP-c0ef411c038d44c9ba616924ae6251f0)
+
+
+
