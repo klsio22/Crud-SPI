@@ -110,45 +110,15 @@ Desenvolver CRUD - Servidor (Node) e Banco de Dados (Mysql ou PostgreSQL) com à
 Não Será necessário Frontend - Realizar o Video Explicativo com Alguma plataforma para teste de API - (Postman, Insomnia e etc ) *
 
 - [ ] Tarefa Completa
-
-- [ ] Cadastro de Usuário
-
-- [ ] Login
-
-- [ ] Cadastro de Paciente
-
+- [x] Cadastro de Usuário
+- [x] Login
+- [x] Cadastro de Paciente
 - [ ] Atualização de Paciente
-
 - [ ] Filtro de Status
-
 - [ ] Filtro de Pacientes Cadastrados
-
 - [ ] Validação para DELETE
-
 - [ ] Incluir Evolução de Paciente
-
 - [ ] Filtro Etapa 7
-
-- [ ] Filtro Etapa 8
-
-- [ ] Cadastro de Usuário
-
-- [ ] Login
-
-- [ ] Cadastro de Paciente
-
-- [ ] Atualização de Paciente
-
-- [ ] Filtro de Status
-
-- [ ] Filtro de Pacientes Cadastrados
-
-- [ ] Validação para DELETE
-  
-- [ ] Incluir Evolução de Paciente
-
-- [ ] Filtro Etapa 7
-
 - [ ] Filtro Etapa 8
 
 Quilgo Submission ID (do not edit) *

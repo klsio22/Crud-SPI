@@ -1,4 +1,4 @@
-import { Column, CreateDateColumn, Entity, JoinColumn, ManyToOne, PrimaryColumn, UpdateDateColumn } from "typeorm";
+import { Column, CreateDateColumn, Entity, JoinColumn, ManyToOne, PrimaryColumn } from "typeorm";
 import { v4 as uuid } from 'uuid'
 import { User } from "./User";
 
@@ -26,7 +26,7 @@ export class Patient {
   gender: string;
 
   @Column()
-  zipCode: number;
+  zip_code: number;
 
   @Column()
   address: string;
@@ -46,9 +46,6 @@ export class Patient {
   @CreateDateColumn()
   created_at: Date;
 
-  @UpdateDateColumn()
-  updated_at: Date;
-  
   @Column()
   user_id: string;
   

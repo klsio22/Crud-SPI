@@ -27,11 +27,11 @@ export class patient1639686343372 implements MigrationInterface {
           },
           {
             name: "rg",
-            type: "int",
+            type: "bigint",
           },
           {
             name: "cpf",
-            type: "int",
+            type: "bigint",
           },
           {
             name: "gender",
@@ -39,7 +39,7 @@ export class patient1639686343372 implements MigrationInterface {
           },
           {
             name: "zip_code",
-            type: "int",
+            type: "bigint",
           },
           {
             name: "address",
@@ -48,7 +48,7 @@ export class patient1639686343372 implements MigrationInterface {
 
           {
             name: "number",
-            type: "integer",
+            type: "int",
           },
 
           {
